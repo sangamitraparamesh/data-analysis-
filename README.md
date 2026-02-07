@@ -27,9 +27,9 @@ The project is implemented using a **Jupyter Notebook** and focuses on **data an
 ---
 
 ## 📂 Project Structure
-├── Final_Assignment.ipynb # Jupyter Notebook containing the analysis
-├── dataset.csv # Sample dataset used for analysis
-└── README.md # Project documentation
+├── Final_Assignment.ipynb # Jupyter Notebook containing the analysis 
+├── dataset.csv # Sample dataset used for analysis 
+└── README.md # Project documentation 
 
 
 ---
